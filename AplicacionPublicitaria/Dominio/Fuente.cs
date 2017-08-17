@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace AplicacionPublicitaria.Dominio
 {
-    public abstract class Fuente
+    class Fuente
     {
-        
     }
 }

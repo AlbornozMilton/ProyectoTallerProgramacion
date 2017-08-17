@@ -6,15 +6,7 @@ using System.Threading.Tasks;
 
 namespace AplicacionPublicitaria.Dominio
 {
-    class FuenteRSS:Fuente
+    class FuenteRSS
     {
-        private string iURL;
-        private string iDescripcion;
-
-        public FuenteRSS(string pURL, string pDescripcion)
-        {
-            this.iDescripcion = pDescripcion;
-            this.iURL = pURL;
-        }
     }
 }

@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace AplicacionPublicitaria.Dominio
 {
-    class TextoFijo:Fuente
+    class TextoFijo
     {
-        private string iTexto;
-
-        public TextoFijo(string pTexto)
-        {
-            this.iTexto = pTexto;
-        }
-
-        //propiedades
-
     }
 }
