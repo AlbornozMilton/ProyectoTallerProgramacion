@@ -8,6 +8,17 @@ namespace AplicacionPublicitaria.Dominio
 {
     class Banner
     {
-        //hola
+        //private RangoFecha iRangoFechas 
+        private int iIdBanner;
+        private string iNombre;
+        private Fuente iFuente;
+
+
+        //contructor 
+        public Banner (int pIdBanner, string pNombre)
+        {
+            this.iIdBanner = pIdBanner;
+            this.iNombre = pNombre;
+        }
     }
 }
