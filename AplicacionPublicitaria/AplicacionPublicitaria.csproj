@@ -44,9 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dominio\Banner.cs" />
-    <Compile Include="Dominio\Fuente.cs" />
-    <Compile Include="Dominio\FuenteRSS.cs" />
-    <Compile Include="Dominio\TextoFijo.cs" />
+    <Compile Include="Dominio\Dia.cs" />
+    <Compile Include="Dominio\RangoFecha.cs" />
+    <Compile Include="Dominio\RangoHorario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
