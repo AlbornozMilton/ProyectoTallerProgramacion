@@ -12,6 +12,9 @@ namespace AplicacionPublicitaria
         {
             System.Console.WriteLine("Hola Mundo-.");
             System.Console.ReadKey();
+            System.Console.WriteLine("Hola Mundo-.");
+            System.Console.ReadKey(); System.Console.WriteLine("Hola Mundo-.");
+            System.Console.ReadKey();
         }
     }
 }
